@@ -72,6 +72,7 @@ plugins=(
     sudo
     archlinux
     git
+    zsh-autosuggestions
     last-working-dir
     history-substring-search
     colored-man-pages
