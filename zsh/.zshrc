@@ -77,6 +77,7 @@ plugins=(
     history-substring-search
     colored-man-pages
     extract
+    terraform
 )
 
 source $ZSH/oh-my-zsh.sh
